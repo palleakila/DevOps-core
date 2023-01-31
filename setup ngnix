@@ -2,6 +2,12 @@ Install Ngnix:
 sudo apt install ngnix
 to start ngnix  sudo systemctl start
 to stop ngnix  sudo systemctl start
-var log ngnix
-access log ngnix
-error log ngnix
+var/log/ngnix
+access/log/ngnix
+error/log/ngnix
+move sudo mv 
+rm-rf-remove files(recursively and forcbily 
+ls-list the file
+cd change directory 
+cd.. is previous working directory 
+cd/var/log/ngnix
