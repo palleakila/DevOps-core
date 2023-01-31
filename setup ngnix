@@ -2,3 +2,6 @@ Install Ngnix:
 sudo apt install ngnix
 to start ngnix  sudo systemctl start
 to stop ngnix  sudo systemctl start
+var log ngnix
+access log ngnix
+error log ngnix
